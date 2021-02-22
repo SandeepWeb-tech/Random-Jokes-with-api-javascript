@@ -1,0 +1,38 @@
+#result{
+    border: 1px solid black;
+    margin-top: 20px;
+    width: 100%;
+    background-color: coral;
+    box-shadow: 2px 2px 5px 5px red;
+    padding: 40px;
+}
+.joke{
+    border: 1px dotted black;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    margin: 15px 20px 15px 10px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 15px 15px yellow;
+    display: inline-block;
+    text-align: justify;
+    padding: 30px;
+}
+.joke h4{
+    font-size: 15px;
+    color: red;
+
+}
+.btn{
+    margin: 10px;
+}
+.joke h3{
+    font-size: 20px;
+    color: green;
+}
+.joke h2{
+    font-size: 25px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
